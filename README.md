@@ -23,12 +23,12 @@ When using your IDE, you will have to use two types of folders
 
 ##### In order to create a repository you must:
 1. Create a directory with the command:
-    mkdir "repository-name"
+    `mkdir "repository-name"`
 2. enter to the newly made directory with the command:
-    cd "repository-name"
+    `cd "repository-name"``
 3. Initialize git in the directory with the following command
-    git init 
-3. Now that git has been intialized, the folder must be a repository, and (master) must appear after the name of the repository.
+    `git init` 
+3. Now that git has been intialized, the folder is now a repository, and `(master)` should appear after the name of the repository.
 
 ---
 ## Workflow & Commands
