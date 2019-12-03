@@ -25,7 +25,7 @@ When using your IDE, you will have to use two types of folders
 1. Create a directory with the command:
     `mkdir "repository-name"`
 2. enter to the newly made directory with the command:
-    `cd "repository-name"``
+    `cd "repository-name"`
 3. Initialize git in the directory with the following command
     `git init` 
 3. Now that git has been intialized, the folder is now a repository, and `(master)` should appear after the name of the repository.
@@ -33,14 +33,14 @@ When using your IDE, you will have to use two types of folders
 ---
 ## Workflow & Commands
 make edit git status, commit and push   
-In the ide:  
+#### In the IDE:  
 * `git status`: An optional command that show you the files in the repository that have been changed in red, and the files that are ready to be commited in green.  
 * `git add .`: The command that prepares all the files in the repository to be commited to be committed.
 * `git add "file-name"`: The command that prepares certain files to be commited.  
 * `git commit -m "commit message"`: This command commits all of the files that were added. In other words snapshots of the desidered files are saved with this command.  
 * `git log`: A command that shows you the list of commits  
 
-#### To push code to github:
+#### To push code to GitHub:
 * `git remote add origin URL`: Commit that links the local repository in the IDE with the external one in Github.
 * `git push -u origin master`: The shortened brnch of git push add origin master
 * `git push`: Takes the commits from the locak repository, and passes a copy to the repository in github.
