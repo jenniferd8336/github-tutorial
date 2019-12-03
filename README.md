@@ -32,19 +32,19 @@ When using your IDE, you will have to use two types of folders
 
 ---
 ## Workflow & Commands
-make edit git status, commit and push 
-In the ide: ( make an unordered list)
-git status: an optional command that show you the files in the repository that have been changed in red, and the files that are ready to be commited in green.
-git add . : the command that prepares all the files in the repository to be commited to be committed.
-git add "file-name" ; the command that prepares certain files to be commited.
-git commit -m "commit message" : this command commits all of the files that were added. In other words snapshots of the desidered files are saved with this command.
-git log : a command that shows you the list of commits
+make edit git status, commit and push   
+In the ide:  
+* `git status`: An optional command that show you the files in the repository that have been changed in red, and the files that are ready to be commited in green.  
+* `git add .`: The command that prepares all the files in the repository to be commited to be committed.
+* `git add "file-name"`: The command that prepares certain files to be commited.  
+* `git commit -m "commit message"`: This command commits all of the files that were added. In other words snapshots of the desidered files are saved with this command.  
+* `git log`: A command that shows you the list of commits  
 
-To push code to github:
-git remote add origin URL : commit that links the local repository in the IDE with the external one in Github.
-git push -u origin master : the shortened brnch of git push add origin master
-git push : takes the commits from the locak repository, and passes a copy to the repository in github.
-git remote rm origin : unlinks the local reposity and the repository on github.
+#### To push code to github:
+* `git remote add origin URL`: Commit that links the local repository in the IDE with the external one in Github.
+* `git push -u origin master`: The shortened brnch of git push add origin master
+* `git push`: Takes the commits from the locak repository, and passes a copy to the repository in github.
+* `git remote rm origin`: Unlinks the local reposity and the repository on github.
 
 ---
 ## Rolling Back Changes
