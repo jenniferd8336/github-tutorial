@@ -4,9 +4,9 @@ _by Jennifer Delgado_
 
 ---
 ## Git vs. GitHub
-Git: A version control system that allows users to keep track of changes done to their code. By using git the user is able to keep track the history of theiur code, as well as rerieve any previous deleted code.
+**Git:** A version control system that allows users to keep track of changes done to their code. By using git, the user is able to keep track the history of their code as well as retrieve any previous deleted code.
 
-Github: A website that allows users to store code in an github internet account. Github allows users to visually keep track of changes done to their code, as well as effectively collaborating with other github users. In order to efffectively use the tools github offers, users need to have some background knowledge in git.
+**Github:** A website that allows users to store code in an remote GitHub internet account. Github allows users to visually keep track of changes done to their code, as well as effectively collaborating with other github users. In order to efffectively use the tools github offers, users need to have some background knowledge in git.
 
 ---
 ## Initial Setup
