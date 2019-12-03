@@ -10,7 +10,7 @@ _by Jennifer Delgado_
 
 ---
 ## Initial Setup
-Before a user starts using their IDE, they must set up by linking it to github. Go to the following link, to go through the procedure. m
+Before a user starts using their IDE, they must set up by linking it to github. Go to the following link, to go through the procedure.
 https://github.com/hstatsep/ide50
 
 
