@@ -17,11 +17,11 @@ https://github.com/hstatsep/ide50
 ---
 ## Repository Setup
 
-When using your IDE, you will have to use two types of folders
-A Directory: a normal folder
-A Repository: a project folder in which git had been initialize in order to keep track of teh chnages of the project. 
+When using your IDE, you will have to use two types of folders  
+* **A Directory:** a normal folder  
+* **A Repository:** a project folder in which git had been initialize in order to keep track of teh chnages of the project. 
 
-In order to create a repository you must:
+##### In order to create a repository you must:
 1. Create a directory with the command:
     mkdir "repository-name"
 2. enter to the newly made directory with the command:
